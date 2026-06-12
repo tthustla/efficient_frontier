@@ -17,3 +17,4 @@ pip install quandl
 ```
 In order to import quandl in your environment, you first need to register and get an API key from [Quandl's website](https://www.quandl.com/)
 
+
